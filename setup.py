@@ -25,7 +25,7 @@ dependencies = [
     "pdftotext",
     "PyPDF2",
     "pyopenssl",
-    "primefac @ https://github.com/elliptic-shiho/primefac-fork",
+    "primefac @ git+https://github.com/elliptic-shiho/primefac-fork.git",
     "sphinx",
     "sphinx-rtd-theme",
     "gmpy",
