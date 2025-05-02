@@ -33,9 +33,7 @@ dependencies = [
     "watchdog",
     "pygments",
     "regex",
-    "dbus-python",
     "notify2",
-    "patchelf; sys_platform!='win32'"
 ]
 
 dependency_links = [
